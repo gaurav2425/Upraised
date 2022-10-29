@@ -1,0 +1,32 @@
+.quiz_img{
+    width: 250px;
+    /* margin-bottom: 30px; */
+}
+
+.logo_img{
+    width: 150px;
+    margin-top: 50px;
+}
+
+.btn{
+    background-color: #FF3B3F;
+    border: none;
+    padding: 15px;
+    border-radius: 30px;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    flex-direction: row;
+    width: 250px;
+    margin-bottom: 30px;
+}
+
+.start_container{
+    justify-content: space-between;
+    /* background-color: beige; */
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    height: 100vh;
+}
